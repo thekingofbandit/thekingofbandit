@@ -3,7 +3,6 @@
 Creative Developer
 data process, book lover, and coffee addict.
 
-![Me](https://res.cloudinary.com/tkob/image/upload/v1473401155/profile-picture-2.jpg)
 
 I currently work at PT. SML (Sarana Maju Lestari), where I spend most of my time crafting and working on awesome projects. I love codes like it was magic to me. Wherever and whenever I go; I do code. From Node JS into easy app in Alpha Anywhere platform. MySQL and excel also exciting for me. Trim and data mining or even using API. An untouchable world for me before.
 
