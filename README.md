@@ -10,10 +10,6 @@ From updating online store into promoting sites into forums and sometimes I do d
 
 #### CONTACT DETAILS
  - Khanafi Mohammad
- - Tambaksari, Surabaya
- - +6285640911080
- - thekingofbandit@gmail.com
- - thekingofbandit.github.io
 
 
 
